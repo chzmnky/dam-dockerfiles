@@ -1,4 +1,4 @@
-FROM dam/java:8
+FROM dam/openjdk-jre:8u92
 
 ENV PLANTUML_VERSION=8043
 

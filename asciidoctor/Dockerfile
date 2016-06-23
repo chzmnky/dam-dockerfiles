@@ -1,4 +1,4 @@
-FROM dam/openjdk:8
+FROM dam/openjdk-jre:8u92
 
 # RUN apk add --no-cache asciidoctor
 
