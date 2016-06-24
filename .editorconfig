@@ -7,7 +7,10 @@ root = true
 [*]
 end_of_line = lf
 insert_final_newline = true
+
+[Dockerfile]
 indent_size = 4
+indent_style = space
 
 [Makefile]
 indent_style = tab
